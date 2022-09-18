@@ -2,6 +2,8 @@
 
 小容量リポバッテリー充電器
 
+![image](https://user-images.githubusercontent.com/43885603/190899080-a6e1c2f3-251b-4985-8e84-c6b6da4ff086.jpg)
+
 ## 仕様
 
 - 電源入力 (5V)
