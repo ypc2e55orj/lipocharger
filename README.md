@@ -3,6 +3,7 @@
 小容量リポバッテリー充電器
 
 ![image](https://user-images.githubusercontent.com/43885603/190899080-a6e1c2f3-251b-4985-8e84-c6b6da4ff086.jpg)
+![image](https://user-images.githubusercontent.com/43885603/190923597-9e88adc2-8b5b-4aec-8b75-d583842229f1.png)
 
 ## 仕様
 
